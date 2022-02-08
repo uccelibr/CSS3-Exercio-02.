@@ -1,0 +1,247 @@
+
+*{
+  margin: 0;
+  border: 0;
+}
+body{
+  background-color: rgb(179, 218, 223);
+}
+div {
+    width: 350px;
+    height: 175px;
+    display: inline-block;
+    padding: 1%;
+    margin: 5%,;
+    margin-left: 4%;
+  }
+  div p{
+    margin-left:  45%;
+    margin-top: 2%;
+    font-family: sans-serif;
+    font-size: small;
+}
+h1{text-align: center;
+  font-family: sans-serif;
+  margin: 5%;
+  color: aliceblue;
+  border-bottom: 3px solid aliceblue;
+  background-color: rgb(6, 148, 173);
+
+}
+
+    h2{ text-align: center;
+      font-family: sans-serif;
+      margin-top: 1%, 1%,1%,1%;
+      border: 3px solid black;
+      background-color: rgb(6, 148, 173);
+      color:aliceblue;
+    }
+
+  #curitiba{background-image: url(../img/curitiba-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border: 3px solid rgb(224, 212, 255);
+    border-bottom-left-radius:10%  ;
+  border-radius: 5%  ;}
+  #riobranco{
+    background-image: url(../img/Rio-Branco-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border: 3px solid rgb(255, 161, 166);
+    border-radius: 5%; 
+    border-bottom-left-radius:10%  ;}
+  #rj{background-image: url(../img/Rio-de-Janeiro-cidade-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border: 3px solid rgb(110, 90, 53);
+    border-radius: 5%; 
+    border-bottom-left-radius:10%  ;}
+  #vix{background-image: url(../img/Vitória-600x399.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border: 5px solid rgb(6, 247, 255);
+    border-radius: 10%;
+    border-bottom-left-radius:15%;}
+    
+  #palmas{background-image: url(../img/palmas-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border: 1px dotted rgb(38, 8, 48);
+    border-bottom-left-radius:10%  ;
+    border-radius: 5%;}
+  #sao{background-image: url(../img/São-Paulo-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border: 1px solid rgb(0, 0, 0);
+    border-bottom-left-radius:10%  ;
+    border-radius: 5%;
+  }
+  #luis{background-image: url(../img/Sâo-Luis-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-bottom-left-radius:10%  ;
+    border-radius: 5%;
+    border: 3px solid rgb(63, 62, 62);}
+  #fortaleza{background-image: url(../img/fortaleza-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+     border: 3px solid rgb(7, 77, 73);}
+  #cuiaba{background-image: url(../img/cuiaba-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%; 
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(76, 119, 136);}
+  #florianopolis{background-image: url(../img/florianópolis-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid orange;}
+  #brasilia{background-image: url(../img/Distrito_Federal-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(77, 1, 1);}
+  #natal{background-image: url(../img/natal-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(207, 114, 114);}
+  #aracaju{background-image: url(../img/Aracaju-600x399.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border: 3px double rgb(224, 176, 214);}
+  #belem{background-image: url(../img/Belém-do-Pará-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(95, 30, 81);}
+  #palmas{background-image: url(../img/palmas-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(234, 0, 255);
+  }
+  #belo{background-image: url(../img/Belo-Horizonte-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(101, 6, 179);}
+  #goia{background-image: url(../img/goiania-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(26, 3, 158);}
+  #campo{background-image: url(../img/Campo-Grande-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px; 
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(6, 89, 167);}
+  #porto{background-image: url(../img/Porto-Alegre-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(0, 110, 255);}
+  #portov{background-image: url(../img/Porto-Velho-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+     border: 3px solid rgb(0, 179, 179);}
+  #manaus{background-image: url(../img/manaus-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+    border: 3px double rgb(21, 167, 111);}
+  #floripa{background-image: url(../img/Distrito_Federal-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(0, 172, 92);}
+  #boa{background-image: url(../img/Boa-Vista-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(24, 116, 1);}
+  #recife{background-image: url(../img/recife-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5%;
+    border-bottom-left-radius:10%  ;
+    border: 1px dashed rgb(142, 248, 2);}
+  #macapa{background-image: url(../img/Macapá-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(208, 255, 0);}
+  #joao{background-image: url(../img/João-Pessoa-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(240, 243, 35);}
+  #salvador{background-image: url(../img/salvador-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid orange;}
+  #teresina{background-image: url(../img/Teresina-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(201, 69, 28);}
+  #maceio{background-image: url(../img/Maceió-350x233.jpg);
+    background-position:left;
+    background-repeat: no-repeat;
+    background-size: 150px, 100px;
+    border-radius: 5% ;
+    border-bottom-left-radius:10%  ;
+    border: 3px solid rgb(240, 5, 5);}
+
+
